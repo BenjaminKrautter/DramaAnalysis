@@ -5,7 +5,7 @@ Version: 3.0.2
 Date: 2020-09-07
 Language: en-US
 Authors@R: c(
-  person("Nils", "Reiter", email="nils.reiter@ims.uni-stuttgart.de", role=c("aut", "cre"), comment=(ORCID="0000-0003-3193-6170")),
+  person("Nils", "Reiter", email="nils.reiter@ims.uni-stuttgart.de", role=c("aut", "cre")),
   person("Tim", "Strohmayer", email="st151528@stud.uni-stuttgart.de", role=c("ctb")),
   person("Janis", "Pagel", email="janis.pagel@ims.uni-stuttgart.de", role=c("ctb")))
 Description: Analysis of preprocessed dramatic texts, with respect to literary research. 
